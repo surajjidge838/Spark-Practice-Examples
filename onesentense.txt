@@ -1,0 +1,1 @@
+1.	Prerequisite: You should have Java installed on your machine. If you don’t have Java on your machine, please go to this site and download Java.
